@@ -1,4 +1,4 @@
-package oop.class1;
+package oop.classesIntroduction;
 public class Account {
 
     public int accountNo;

@@ -1,4 +1,4 @@
-package oop.class1;
+package oop.classesIntroduction;
 public class CreateAccount {
     public static void main(String[] args) {
     Account daveAccount = new Account(); 
